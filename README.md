@@ -1,7 +1,7 @@
 #                             Energy Consumption Forecasting Model
 
 ![download (3)](https://github.com/Toja007/Energy_consumption/assets/131866743/bfa65d1d-1f99-4732-a96e-f81f9daede26)
-                                    Energy Consumption Forecasting Model
+                                    
                     
 # Overview
 This repository contains an energy consumption forecasting model developed using machine learning techniques. The model is designed to predict energy consumption based on historical data and additional features.
